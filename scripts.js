@@ -1,7 +1,7 @@
 // replace value below with your Account ID //
-var dsAccountId = '53e87a81-3ab4-43d4-9d29-b7861bfc1e1e';
+var dsAccountId = '10758372';
 //  replace value below with your Clickwrap ID //
-var dsClickwrapId = '8d6ef161-0398-40d7-be90-03136af40036';
+var dsClickwrapId = 'fe514265-6ffb-411f-b3cb-8476f69b5064';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
@@ -9,7 +9,7 @@ var logoUrl = 'https://www.innov8ive.app/LOGO.png';
 // replace with your brand hex code.  changes color of header text and button background //
 var fontColor = '#3d00b2';
 // replace with a hex code of your liking.  changes text color on the submit button //
-var buttonTextColor = '#ffffff';
+var buttonTextColor = '#24a0ed';
 
 function makeid(length) {
    var result           = '';
